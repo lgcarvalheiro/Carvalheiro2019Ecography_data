@@ -15,4 +15,4 @@ For access to the original files (spatially and temporally explicit list of reco
 ############################################################################################################################
 ##Dataset after running TREND function
 
-This dataset provided the corrected richness change values per cell for different time periods comparisons. This file was used to generate Fig 2 and Fig 3 of  Carvalheiro et al. 2019 (doi: 10.1111/ecog.04656) and was used to run the analyses which generated Fig 4 of the same publication.
+This file provides the corrected richness change values per cell for different time periods comparisons. This file was used to generate Fig 2 and Fig 3 of  Carvalheiro et al. 2019 (doi: 10.1111/ecog.04656) and was used to run the analyses which generated Fig 4 of the same publication.
